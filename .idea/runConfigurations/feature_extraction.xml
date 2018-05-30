@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="feature_extraction" type="CMakeRunConfiguration" factoryName="Application" singleton="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="vo1" TARGET_NAME="feature_extraction" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="vo1" RUN_TARGET_NAME="feature_extraction">
+    <method />
+  </configuration>
+</component>
